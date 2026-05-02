@@ -11,7 +11,10 @@
 
 **🎬 Figma Prototype:** [View Prototype](https://www.figma.com/proto/drhC7vDVlQUDH97dLY1XoT/Untitled?page-id=0%3A1&node-id=2-647&p=f&viewport=-209%2C146%2C0.11&t=yqpnivZQHzjixyvJ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2%3A348)
 
+**🌐 Yt video link**:https://www.youtube.com/watch?v=KwExE6OuBHU
+
 ---
+
 
 ## 🔍 Overview
 
