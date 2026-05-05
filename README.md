@@ -17,8 +17,17 @@
 
 
 ## 🔍 Overview
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/96289502-d467-47b5-894d-867a6bf95def" />
+
 
 FlowTrack is a **full-stack personal finance dashboard** designed for modern digital payment ecosystems. It centralizes all your financial activity with a focus on **visual excellence**, **smooth interactions**, and **actionable data clarity**.
+<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/b2732471-5d1a-4784-b7f9-2ba0f494202f" />
+<img width="1919" height="847" alt="image" src="https://github.com/user-attachments/assets/50a3f4fc-87b7-4d63-9a28-29ce15c762b0" />
+<img width="1901" height="1079" alt="image" src="https://github.com/user-attachments/assets/1c696d6a-179b-454d-b10c-296a4c3a1f2c" />
+<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/6bc02302-7059-4004-b649-2c39185d75f3" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f71283b1-6521-45fc-8ab6-e129e38e7f4f" />
+
+
 
 The application adheres to a strict **"Triple-Black" tonal design aesthetic**, prioritizing depth through layering, vibrant green accents, and high-performance custom SVG visualizations for a truly premium feel.
 
@@ -48,6 +57,8 @@ The application adheres to a strict **"Triple-Black" tonal design aesthetic**, p
 - **Support Center**: Integrated ticketing system with admin notifications via Formspree.
 - **Legal Compliance**: Built-in Privacy Policy, Terms of Service, and a GDPR/DPDP Act compliant Consent Management system.
 - **Notifications**: Real-time spending alerts and subscription reminders.
+<img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/ef71834a-8b5d-4b8d-bf76-0b8a1435e635" />
+
 
 ### ⚡ Performance & SEO (New)
 - **Lazy Loading**: Route-based code splitting using `React.lazy` and `Suspense` for minimal initial bundle size.
